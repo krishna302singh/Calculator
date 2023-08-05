@@ -7,8 +7,9 @@ This repository contains a simple calculator web application created using HTML,
 Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
 Responsive design for seamless usage on various devices
 Intuitive user interface for easy interaction
+
 **Demo:**
-Link to Live Demo
+ https://krishna302singh.github.io/Calculator/
 
 **How to Use:**
 
